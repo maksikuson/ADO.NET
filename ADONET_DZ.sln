@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_ConnectedMode", "01_ConnectedMode\01_ConnectedMode.csproj", "{1EF8EDDE-1DEE-484A-933B-D905480FC19D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_CRUDInterface", "02_CRUDInterface\02_CRUDInterface.csproj", "{FA66CD0A-D3C4-4742-BAC9-28C085F8603B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_CRUDInterface", "02_CRUDInterface\02_CRUDInterface.csproj", "{FA66CD0A-D3C4-4742-BAC9-28C085F8603B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_AdoNet", "05_AdoNet\05_AdoNet.csproj", "{AE1253D4-EF82-45A0-B201-7D48001E7031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookFnPrj", "BookFnPrj\BookFnPrj.csproj", "{DDB84043-3BC6-4128-AB6B-4E48DD768F09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{FA66CD0A-D3C4-4742-BAC9-28C085F8603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA66CD0A-D3C4-4742-BAC9-28C085F8603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA66CD0A-D3C4-4742-BAC9-28C085F8603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1253D4-EF82-45A0-B201-7D48001E7031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1253D4-EF82-45A0-B201-7D48001E7031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1253D4-EF82-45A0-B201-7D48001E7031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1253D4-EF82-45A0-B201-7D48001E7031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB84043-3BC6-4128-AB6B-4E48DD768F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB84043-3BC6-4128-AB6B-4E48DD768F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB84043-3BC6-4128-AB6B-4E48DD768F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB84043-3BC6-4128-AB6B-4E48DD768F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
